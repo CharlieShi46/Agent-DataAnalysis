@@ -1,4 +1,4 @@
-📊 CSV Data Analysis Assistant | CSV数据分析智能工具
+## 📊 CSV Data Analysis Assistant | CSV数据分析智能工具
 
 
 This project is a **Streamlit web app** that enables users to upload PDF documents and interact with them using natural language.  
