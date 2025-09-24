@@ -25,8 +25,8 @@ This project is a **Streamlit web app** that enables users to upload PDF documen
 1. Clone the repository  
    克隆仓库：
    ```bash
-   git clone https://github.com/your-username/pdf-qa-tool.git
-   cd pdf-qa-tool
+   git clone https://github.com/CharlieShi46/Agent-DataAnalysis.git
+   cd Agent-DataAnalysis
 
 2. Install dependencies
 
